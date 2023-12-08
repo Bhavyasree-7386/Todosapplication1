@@ -1,0 +1,86 @@
+
+body{
+    background-image:linear-gradient(rgba(22, 79, 22, 0.541),yellow);
+    background-size: 300%,300%;
+    }
+    #input1
+    {
+        position: relative;
+       width: 500px;
+        height: 50px;
+        border-radius: 4px;
+        border: 2px solid rgb(20, 20, 20);
+        left: 120px;
+        margin: 10px;
+    
+    
+    }
+    #liststyle{
+        position: relative;
+        bottom: 20px;
+         border: 2px solid rgb(167, 214, 16);
+        box-shadow: 1px 1px skyblue;
+         width:  1050px; 
+         text-align: left;
+  list-style-type: none;
+
+   padding: 30px;
+   margin: 20px;
+    height: 25px;
+    }
+    #editstyle{
+        width: 90px;
+        height: 30px;
+    margin: 10px;
+    background-color:rgba(107, 158, 178, 0.594);
+    border-radius: 10px;
+    }
+    #addstyle{
+        border-radius: 4px;
+       background-color: rgba(66, 66, 65, 0.276);
+        position: relative;
+        left: 150px;
+        width: 140px;
+        height: 50px;
+        margin: 10px;
+    }
+    #buttonstyle{
+        position: relative;
+        left: 760px;
+        bottom: 33px;
+      
+    }
+    #deletestyle{
+        width: 90px;
+        height: 30px;
+        background-color: rgba(131, 48, 64, 0.564);
+        border-radius: 10px;
+    }
+    #completestyle{
+        width: 90px;
+        height: 30px;
+        background-color: rgba(47, 106, 47, 0.571);
+        border-radius: 10px;
+    }
+    h1{
+        text-align: center;
+    
+        text-shadow: 2px 2px rgb(131, 148, 34);
+    }
+    h3{
+       font-size: 30px;
+        margin: 20px;
+        text-align: center;
+    color: darkolivegreen;
+        position: relative;
+        left: 70px;
+     
+    }
+    #checkboxstyle{
+        width: 25px;
+        height: 20px;
+        position: relative;
+        left: 220px;
+    bottom: 50px;
+        
+    }
